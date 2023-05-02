@@ -1,7 +1,7 @@
 
 Privacy Policy for Bitcoin TV Live
 
-Effective Date: [5/1/2023]
+Effective Date: 5/1/2023
 
 Introduction
 
@@ -25,7 +25,7 @@ We are committed to ensuring the security of your information. Although we do no
 
 Children's Privacy
 
-Bitcoin TV Live is not intended for use by children under the age of 13. We do not knowingly collect, use, or disclose personal information from children under 13. If you believe that we might have any information from or about a child under 13, please contact us at [Enter Contact Email], and we will take appropriate steps to investigate and delete such information if necessary.
+Bitcoin TV Live is not intended for use by children under the age of 13. We do not knowingly collect, use, or disclose personal information from children under 13. If you believe that we might have any information from or about a child under 13, please contact us, and we will take appropriate steps to investigate and delete such information if necessary.
 
 Changes to Our Privacy Policy
 
